@@ -1,0 +1,5 @@
+{
+  "name": "DocSpot",
+  "description": "A web application for patients to seamlessly book appointments with doctors, and for doctors and admins to manage these appointments and registrations.",
+  "requestFramePermissions": []
+}
